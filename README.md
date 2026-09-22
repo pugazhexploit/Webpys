@@ -99,7 +99,7 @@ Current capabilities:
 
 **Note**
 
-This module currently exists independently and is **not yet integrated** into the main scanning workflow.
+> This module currently exists independently and is **not yet integrated** into the main scanning workflow.
 
 ---
 
