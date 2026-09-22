@@ -1,11 +1,4 @@
 
-      
-# WebPyX Scan v3.0.1 (CyberScan)
-**Author**: pugazhenthi J
-
-> A Python-based Reconnaissance and Security Scanning Toolkit for authorized security testing, learning, and research.
-
-
 ## Overview
 
 **WebPyX Scan v3.0.1** is a modular reconnaissance framework written in Python. It combines common reconnaissance techniques into a single command-line application capable of discovering subdomains, scanning TCP ports, performing directory enumeration, and generating detailed reports in JSON and HTML formats.
