@@ -1,5 +1,3 @@
-
-      
 # WebPyX Scan v3.0.1 (CyberScan)
 **Author**: pugazhenthi J
 
